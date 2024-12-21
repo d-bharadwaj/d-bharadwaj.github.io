@@ -3,14 +3,14 @@ Title: Home
 Template: about
 URL: ''
 save_as: index.html
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD student. Working on Quantum Computing & HPC Architectures. 
 
 profile: 
   align: right
-  image: images/prof_pic.jpg
+  image: images/profile_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Email: firstname_lastname [at] princeton.edu</p>
+    <p>Email: dhanvibharad [at] gmail.com</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
