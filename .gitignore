@@ -1,0 +1,6 @@
+__pycache__
+cache/*
+output/*
+al_folio_theme/css/main.scss
+staging/*
+!staging/.empty
