@@ -5,15 +5,15 @@ nav: false
 summary: An archive of announcements.
 
 entries:
-  - date: 2016-01-15 
+  - date: 2024-07-26 
     content: |
-      A simple inline announcement with emoji! ✨😄
+      Started my PhD in CSE at University of Michigan! ✨😄
 
-  - date: 2015-11-07 
+  - date: 2024-05-20
     content: |
-      [A long announcement with details]({filename}/posts/announcement.md)
+      Started my summer internship at **NVIDIA** in the beautiful bay area!
 
-  - date: 2015-10-22 
+  - date: 2024-05-12
     content: |
-      Another inline announcement. You can even use **Markdown** in your announcements! Here is a [link](#PhysRev.47.777) to a paper on the same page.
+      Graduated with my undergraduate degree in Physics from the University of Wisconsin - Madison!
 ---

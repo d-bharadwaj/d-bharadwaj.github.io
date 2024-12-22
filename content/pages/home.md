@@ -3,23 +3,52 @@ Title: Home
 Template: about
 URL: ''
 save_as: index.html
-subtitle: PhD student. Working on Quantum Computing & HPC Architectures. 
+subtitle: PhD student working on Quantum Computing & HPC Architectures. 
 
 profile: 
   align: right
   image: images/profile_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Email: dhanvibharad [at] gmail.com</p>
+  # address: >
+  #   <p>Email: dhanvibharad [at] gmail.com</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: true  # includes a list of the newest posts/
+# selected_papers: true # includes a list of papers marked as "selected={true}"
 talks: true # includes latest talks
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I'm a 1st year PhD student in CSE at the University of Michigan, advised by [Dr. Gokul Ravi](https://gsravi.engin.umich.edu/). 
+My research focus in Quantum Computing and High-Performance Computing (HPC), seeks to advance practical quantum advantage through the integration of these technologies. I'm also an incoming [MICDE](https://micde.umich.edu/) graduate fellow.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<style>
+  .lower-font-size li {
+    font-size: 0.90em; /* You can adjust the value as needed */
+  }
+</style>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<div class="desktop">
+<div class="row">
+    <div class="col-5 pr-0">
+    <div class="row justify-content-center">
+    <ul class="lower-font-size"> 
+    <h4>Interests</h4>
+    <li>Quantum Simulations Software</li>
+    <li>Quantum Computing Architecture</li>
+    <li>High Performance Computing</li>
+    </ul>
+    </div> 
+    </div>
+    <div class="col-7"> 
+    <div class="row justify-content-center">
+    <ul class="lower-font-size">
+    <h4>Education</h4>
+    <li>PhD in Computer Science<br>University of Michigan, 2024-Present</li>
+    <li>BS in Physics + Data Science (Minor).<br> UW-Madison, 2020-2024</li>
+    </ul> 
+    </div>
+    </div>
+</div>
+</div>
+
+**Email**: `firstname_lastname [at] gmail.com`
