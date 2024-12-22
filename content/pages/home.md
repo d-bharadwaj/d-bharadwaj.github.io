@@ -13,9 +13,9 @@ profile:
   #   <p>Email: dhanvibharad [at] gmail.com</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts/
+# latest_posts: true  # includes a list of the newest posts/
 # selected_papers: true # includes a list of papers marked as "selected={true}"
-talks: true # includes latest talks
+# talks: true # includes latest talkss
 ---
 
 Hello! I'm a 1st year PhD student in CSE at the University of Michigan, advised by [Dr. Gokul Ravi](https://gsravi.engin.umich.edu/). 
@@ -51,4 +51,4 @@ My research focus in Quantum Computing and High-Performance Computing (HPC), see
 </div>
 </div>
 
-**Email**: `firstname_lastname [at] gmail.com`
+**Email**: `dhanvibharad [at] gmail.com`
