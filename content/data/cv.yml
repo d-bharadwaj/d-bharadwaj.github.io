@@ -8,6 +8,8 @@
              Tensor Networks, Error Mitigation
     - name: Languages
       value: Python, C++, Cython, Julia, SystemVerilog
+    - name: Tools
+      value : Qiskit, Pennylane, cuQuantum, PyTorch, NumPy, CuPy, Pybind11
 
 - title: Education
   type: time_table
