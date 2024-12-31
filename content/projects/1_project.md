@@ -4,7 +4,7 @@ template: page
 summary: a project with a background image
 img: images/12.jpg
 importance: 1
-category: work
+category: fun
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 <!-- 
