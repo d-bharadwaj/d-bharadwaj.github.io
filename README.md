@@ -1,3 +1,3 @@
 # My Academic Website 
 
-This is my academic website. 
+This is my academic website
