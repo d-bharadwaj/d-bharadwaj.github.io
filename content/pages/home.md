@@ -3,7 +3,7 @@ Title: Home
 Template: about
 URL: ''
 save_as: index.html
-subtitle: PhD student working on Quantum Computing & HPC Architectures. 
+subtitle: PhD student working on Quantum Computing + HPC Architectures. 
 
 profile: 
   align: right
@@ -18,7 +18,7 @@ news: true  # includes a list of news items
 # talks: true # includes latest talkss
 ---
 
-Hello! I'm a 1st year PhD student in CSE at the University of Michigan, advised by [Dr. Gokul Ravi](https://gsravi.engin.umich.edu/). 
+Hello! I'm a 1st year PhD student in CSE @ University of Michigan, advised by [Dr. Gokul Ravi](https://gsravi.engin.umich.edu/). 
 My research focus in Quantum Computing and High-Performance Computing (HPC), seeks to advance practical quantum advantage through the integration of these technologies. I'm also a 2024 [MICDE](https://micde.umich.edu/) graduate fellow.
 
 <style>

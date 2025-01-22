@@ -7,13 +7,13 @@ summary: An archive of announcements.
 entries:
   - date: 2024-07-26 
     content: |
-      Started my PhD in CSE at University of Michigan! ✨😄
+      Started my PhD in CSE at University of **Michigan**! ✨😄
 
   - date: 2024-05-20
     content: |
-      Started my summer internship at **NVIDIA** in the beautiful bay area!
+      Started my summer internship at **NVIDIA** in the beautiful San Francisco bay area!
 
   - date: 2024-05-12
     content: |
-      Graduated with my undergraduate degree in Physics from the University of Wisconsin - Madison!
+      Graduated with my undergraduate degree in Physics from the University of **Wisconsin** - Madison!
 ---
