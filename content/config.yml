@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Dhanvi Bharadwaj # the website title (if blank, full name will be used instead)
-first_name: <b>Dhanvi</b>
+title: # the website title (if blank, full name will be used instead)
+first_name: Dhanvi
 middle_name: 
 last_name: Bharadwaj 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
