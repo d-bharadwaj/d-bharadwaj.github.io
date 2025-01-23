@@ -5,7 +5,7 @@ nav: false
 summary: An archive of announcements.
 
 entries:
-  - date: 2024-07-26 
+  - date: 2024-08-26 
     content: |
       Started my PhD in CSE at University of **Michigan**! ✨😄
 
