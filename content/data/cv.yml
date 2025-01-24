@@ -4,8 +4,8 @@
     - name: Full Name
       value: Dhanvi Bharadwaj
     - name: Interests
-      value: Quantum Computing Architecture, Quantum-HPC hybrid systems,
-             Tensor Networks, Error Mitigation, Compilers
+      value: Quantum circuit simulation, Quantum-HPC hybrid systems,
+             Tensor Networks, Error Mitigation, Compiler  s
     - name: Languages
       value: Python, C++, Cython, Julia, SystemVerilog
     - name: Tools
@@ -33,7 +33,8 @@
   type: time_table
   contents:
     - title: Quantum Computing Software Intern
-      institution: NVIDIA Math Libraries Team
+      institution: <a href = "https://www.nvidia.com/en-us/solutions/quantum-computing/">
+                    NVIDIA Math Libraries Team </a>
       year: Summer '24
       description:
         - Implemented the Simple Update algorithm with CuPy and C++ to optimize matrix product states, enhancing the accuracy of tensor network contractions involving 2-qubit gates and MPOs.
@@ -41,14 +42,16 @@
         - Collaborated with Senior Engineers during team-led CUDA workshops, refining GPU programming techniques and ensuring industry-level coding standards throughout development.
 
     - title: Software Engineer Intern
-      institution: qBraid 
+      institution: <a href = "https://www.qbraid.com/">
+                    qBraid </a>
       year: Spring '24'
       description:
         - Conducted detailed profiling and performance analysis on qBraid Lab with Quantum Volume circuits, identifying and resolving kernel bottlenecks.
         - Led comprehensive benchmarking studies on SOTA NVIDIA GPU hardware systems, exploring the effect of depolarizing noise on density matrix-based simulation techniques.
 
     - title: Quantum Machine Learning Intern
-      institution: Oak Ridge National Laboratory
+      institution: <a href = "https://www.ornl.gov/directorate/ccsd">
+                    Oak Ridge National Laboratory </a>
       year: Summer '23
       description:
         - Developed and implemented Quantum Machine Learning models using Pennylane and Qiskit frameworks, focusing on 2-6 qubits to assess predictive capabilities on highly multivariate and non-linear datasets.
@@ -57,12 +60,23 @@
         - Implemented and refined quantum circuit architectures such as SU(4) and IsingZZ coupling for multiclass classification tasks on imbalanced datasets.
 
     - title: Undergraduate Research Assistant  
-      institution: Thevamaran Lab , UW-Madison
+      institution: <a href = "https://thevamaran.engr.wisc.edu/">
+                    Thevamaran Lab , UW-Madison </a>
       year: 2020-2024
       description:
       - Utilized Python to implement computational techniques to correct strain-overshoot in viscoelastic relaxation experiments, to help improve the accuracy of dynamic moduli calculations.
       - Collaborated with researchers to execute data analysis using SciPy that identified an opportunity to reduce noise from resonance effect.
       - Investigated the viscoelastic properties of vertically aligned carbon nanotubes (VACNT) across broad frequency and amplitude ranges using dynamic mechanical analyzer.
+
+    - title: Quantum Software Lead 
+      institution: <a href = "https://wqi.wisc.edu/wqcc/">
+                    Wisconsin Quantum Computing Club
+      year: 2023-2024
+      description:
+      - Led a team of 5 students to organize the inaugural IBM Qiskit Fall Fest at UW-Madison consisting of Workshops, Tutorials, and a Hackathon.
+      - Developed interactive workshops for 80+ students in Quantum Simulations and Error-Correction.
+      - Taught introductory topics related to quantum computing and linear algebra.
+      - Organized career talks for students with leading experts in quantum computing from industry and academia.
 
 - title: Open Source Contributions
   type: time_table
