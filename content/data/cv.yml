@@ -4,12 +4,12 @@
     - name: Full Name
       value: Dhanvi Bharadwaj
     - name: Interests
-      value: Quantum Computing Simulation methods, Quantum-HPC hybrid systems, High Performance Computing,
-             Tensor Networks, Error Mitigation
+      value: Quantum Computing Architecture, Quantum-HPC hybrid systems,
+             Tensor Networks, Error Mitigation, Compilers
     - name: Languages
       value: Python, C++, Cython, Julia, SystemVerilog
     - name: Tools
-      value : Qiskit, Pennylane, cuQuantum, PyTorch, NumPy, CuPy, Pybind11
+      value : Qiskit, Pennylane, cuQuantum, PyTorch, NumPy, CuPy, Pybind11, LLVM 
 
 - title: Education
   type: time_table
@@ -38,7 +38,7 @@
       description:
         - Implemented the Simple Update algorithm with CuPy and C++ to optimize matrix product states, enhancing the accuracy of tensor network contractions involving 2-qubit gates and MPOs.
         - Designed a preprocessing method to introduce gauge structures into user-provided MPS.
-        - Collaborated with Senior Engineers during team-led CUDA workshops, refining GPU programming techniques and ensuring industry-level coding standards throughout development 
+        - Collaborated with Senior Engineers during team-led CUDA workshops, refining GPU programming techniques and ensuring industry-level coding standards throughout development.
 
     - title: Software Engineer Intern
       institution: qBraid 
@@ -60,7 +60,7 @@
       institution: Thevamaran Lab , UW-Madison
       year: 2020-2024
       description:
-      - Utilized Python to implement computational techniques to correct strain-overshoot in viscoelastic relaxation experiments, to help improve the accuracy of dynamic moduli calculations
+      - Utilized Python to implement computational techniques to correct strain-overshoot in viscoelastic relaxation experiments, to help improve the accuracy of dynamic moduli calculations.
       - Collaborated with researchers to execute data analysis using SciPy that identified an opportunity to reduce noise from resonance effect.
       - Investigated the viscoelastic properties of vertically aligned carbon nanotubes (VACNT) across broad frequency and amplitude ranges using dynamic mechanical analyzer.
 
@@ -91,6 +91,6 @@
 - title: Hobbies
   type: list
   contents:
-    - Passionate about various visual art forms including photography, cinematography, and graphic design
-    - Engaged in collegiate-level Quiz Bowl competitions
-    - Active in Rock Climbing (Bouldering) community
+    - Photography & Cinematography
+    - My postgrad hobby pick - Sand Volleyball
+    - 
