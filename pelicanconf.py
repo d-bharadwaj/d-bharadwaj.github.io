@@ -22,7 +22,7 @@ PLUGINS = ['pelican.plugins.webassets',
            al_folio_extension]
 
 AUTHOR = f'{SITE["first_name"]} {SITE["middle_name"] if SITE["middle_name"] else ""} {SITE["last_name"]}'
-SITENAME = "Dhanvi Bharadwaj"
+SITENAME = SITE["title"]
 
 if SITENAME is None:
     SITENAME = AUTHOR
