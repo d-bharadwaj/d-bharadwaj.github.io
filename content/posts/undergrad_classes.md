@@ -7,7 +7,7 @@ Summary: >
   A page listing my coursework at UW-Madison.  
 ---
 
-In college, I majored in Physics but took several CS courses through my Data Science minor. I deliberately structured my coursework to develop technical skills for research and SWE internships, shaping a clear path toward the CS degree I’m now pursuing in graduate school.
+In college, I majored in Physics but took several CS courses through my Data Science minor. I deliberately structured my coursework to develop technical skills for research and SWE internships, shaping a clear path toward the CS degree I’m pursuing now.
 
 My favorite classes were Vector & Complex Analysis (**MATH 321**) and Introduction to Art (**ART 100**). I loved MATH 321 for its challenging problems that deepened my appreciation of linear algebra. ART 100, taken with my best friend, was equally rewarding as we sketched, painted, and explored museums and concerts.
 
