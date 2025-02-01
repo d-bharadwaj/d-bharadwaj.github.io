@@ -1,5 +1,5 @@
 ---
-Title:  My college classes
+Title:  My classes as a Physics major
 Date: 2025-01-30 
 Category: personal 
 thumbnail: "images/blog/soda_thumbnail.jpeg"
