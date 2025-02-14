@@ -51,5 +51,5 @@ My research focus in Quantum Computing and High-Performance Computing (HPC), see
 </div>
 </div>
 
-**Email**: `dhanvibharad [at] gmail.com`
+<!-- **Email**: `dhanvibharad [at] gmail.com` -->
 
