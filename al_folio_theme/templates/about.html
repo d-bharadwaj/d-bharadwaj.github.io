@@ -110,9 +110,23 @@
             <h2><a href="{{ 'publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
             {{ pub_list(SITE.publications | selectattr("selected"), nodivide=true) }}
           {%- endif %}
+
+          <!-- Hobbies & Interests -->
+          <hr>
+          <h2>Hobbies & Interests</h2>
+          <ul style="display: inline-block; text-align: left;">
+            <li>Photography & Cinematography (Lightroom is my all-time favorite piece of software)</li>
+            <li>Sand Volleyball (My postgrad hobby pick)</li>
+            <li>I like listening to music. Check out my Spotify <a href="https://open.spotify.com/user/c9ts3n6lm3lt5xk701exl9laz?si=7260545d699b4495">here</a>!</li>
+            <li>Traveling (I've explored 17 countries and counting)</li>
+          </ul>
       </article>
 </div>
+
+
 <div style="text-align: center;">
   <a href="https://hits.sh/d-bharadwaj.github.io/"><img alt="Hits" src="https://hits.sh/d-bharadwaj.github.io.svg?color=ff4725"/></a>
 </div></div>
+
+
 {% endblock %}
