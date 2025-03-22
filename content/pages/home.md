@@ -41,7 +41,7 @@ My research focus in Quantum Computing and High-Performance Computing (HPC), see
     <ul class="lower-font-size">
     <h4>Education</h4>
     <li>PhD in Computer Science<br>University of Michigan, 2024-Present</li>
-    <li>BS in Physics + Data Science (Minor).<br> UW-Madison, 2020-2024</li>
+    <li>BS in Physics + Data Science (Minor)<br> UW-Madison, 2020-2024</li>
     </ul> 
     </div>
     </div>
