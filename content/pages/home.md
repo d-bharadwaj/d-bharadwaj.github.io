@@ -30,7 +30,7 @@ My research focus in Quantum Computing and High-Performance Computing (HPC), see
     <div class="row justify-content-center">
     <ul class="lower-font-size"> 
     <h4>Interests</h4>
-    <li>Quantum Simulations Software</li>
+    <li>Quantum Simulation Software</li>
     <li>Quantum Computing Architecture</li>
     <li>High Performance Computing</li>
     </ul>
