@@ -107,13 +107,13 @@
           <!-- Selected papers -->
           {% if page.selected_papers -%}
             <hr>
-            <h2><a href="{{ 'publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
+            <h2><a href="{{ 'publications/' | relative_url }}" style="color: inherit;">Selected publications</a></h2>
             {{ pub_list(SITE.publications | selectattr("selected"), nodivide=true) }}
           {%- endif %}
 
           <!-- Hobbies & Interests -->
           <hr>
-          <h2>Hobbies & Interests</h2>
+          <h2>Hobbies & interests</h2>
           <ul style="display: inline-block; text-align: left;">
             <li>Photography & Cinematography (Lightroom is my all-time favorite piece of software)</li>
             <li>Sand Volleyball (My postgrad hobby pick)</li>
@@ -129,4 +129,4 @@
 </div></div>
 
 
-{% endblock %}
+{% endblock %}    
