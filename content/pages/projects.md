@@ -1,9 +1,9 @@
 ---
 title: projects
 template: projects
-summary: A growing collection of your cool projects.
 nav: false
+external_url: pdf/Dhanvi_Bharadwaj_Resume.pdf
 nav_order: 3
-display_categories: [fun]
+display_categories: [courses]
 horizontal: false
 ---
