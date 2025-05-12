@@ -10,7 +10,7 @@ Summary: >
 
 In college, I majored in Physics but mixed it up with some CS courses through my Data Science minor. I designed my coursework to build up the technical skills I’d need for research and SWE internships. I liked the interesection of Physics and CS so it made perfect sense to keep that momentum going into the research I’m working on now.
 
-**MATH 321** (Vector & Complex Analysis) and **ART 100** (Introduction to Art) were my top picks. MATH 321 was tough ([apparently](https://www.reddit.com/r/UWMadison/comments/zxrr8q/what_is_the_hardest_class_youve_taken_at_uw/) the hardest course @ Wisconsin) but rewarding, deepening my understanding of linear algebra. ART 100 was a vibe, especially since I took it with my best friend. We sketched, painted, and explored museums and concerts, making it memorable.
+**MATH 321** (Vector & Complex Analysis) and **ART 100** (Introduction to Art) were my top picks. MATH 321 was tough ([apparently](https://www.reddit.com/r/UWMadison/comments/zxrr8q/what_is_the_hardest_class_youve_taken_at_uw/) the hardest course @ Wisconsin) but rewarding, deepening my understanding of linear algebra. ART 100 was quite fun, especially since I took it with my best friend. We explored museums and concerts, which made the course engaging and memorable.
 
 !TEMPLATE!
 {% set schedule = [
