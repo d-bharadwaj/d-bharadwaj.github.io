@@ -3,7 +3,7 @@ Title: Home
 Template: about
 URL: ''
 save_as: index.html
-subtitle: PhD student working on Quantum Computing + HPC Architectures. 
+subtitle: PhD student working on Quantum Computing Architecture. 
 
 profile: 
   align: right
