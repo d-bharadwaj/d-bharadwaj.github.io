@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
 Hello! I'm a 2nd year PhD student in CSE @ University of Michigan, advised by [Dr. Gokul Ravi](https://gsravi.engin.umich.edu/). 
-My research focus in Quantum Computing and High-Performance Computing (HPC), seeks to advance practical quantum advantage through the integration of these technologies. I'm also a 2024 [MICDE](https://micde.umich.edu/) graduate fellow.
+My research focus in Quantum Computing and High-Performance Computing (HPC), seeks to advance practical quantum advantage through the integration of these technologies. I'm also a [MICDE](https://micde.umich.edu/) graduate fellow (2024 Cohort).
 
 <style>
   .lower-font-size li {
