@@ -3,7 +3,7 @@ Title: Home
 Template: about
 URL: ''
 save_as: index.html
-subtitle: PhD student working on Quantum Computing Architecture. 
+subtitle: PhD student working on Quantum Computing Architecture 
 
 profile: 
   align: right
@@ -15,8 +15,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 # talks: true # includes latest talkss
 ---
 
-Hello! I'm a 2nd year PhD student in CSE @ University of Michigan, advised by [Dr. Gokul Ravi](https://gsravi.engin.umich.edu/). 
-My research focus in Quantum Computing and High-Performance Computing (HPC), seeks to advance practical quantum advantage through the integration of these technologies. I'm also a [MICDE](https://micde.umich.edu/) graduate fellow (2024 cohort).
+Hello! I'm a 2nd-year PhD student in CSE @ University of Michigan, advised by [Dr. Gokul Ravi](https://gsravi.engin.umich.edu/). 
+My research combines Quantum Computing and High-Performance Computing (HPC) to push towards practical quantum advantage. I'm also a [MICDE](https://micde.umich.edu/) graduate fellow (2024 cohort).
+
+I spent Summer 2024 at [NVIDIA](https://www.nvidia.com/en-us/solutions/quantum-computing/), where I worked on accelerating tensor network simulations for cuQuantum. Previously, I interned at the startup [qBraid](https://www.qbraid.com/), profiling quantum circuits and benchmarking GPU-based simulations, and at [Oak Ridge National Laboratory](https://www.ornl.gov/directorate/ccsd), developing quantum machine learning models and hardware-efficient circuits for complex datasets.
 
 <style>
   .lower-font-size li {
