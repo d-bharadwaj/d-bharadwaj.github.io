@@ -20,6 +20,9 @@ My research combines Quantum Computing and High-Performance Computing (HPC) to p
 
 I spent Summer 2024 at [NVIDIA](https://www.nvidia.com/en-us/solutions/quantum-computing/), where I worked on accelerating tensor network simulations for cuQuantum. Previously, I interned at the startup [qBraid](https://www.qbraid.com/), profiling quantum circuits and benchmarking GPU-based simulations, and at [Oak Ridge National Laboratory](https://www.ornl.gov/directorate/ccsd), developing quantum machine learning models and hardware-efficient circuits for complex datasets.
 
+<!-- add this winter 2026 -->
+<!-- If you’re an undergraduate with an idea you’d like to explore, I’d be excited to hear from you—please don’t hesitate to email me! --> 
+
 <style>
   .lower-font-size li {
     font-size: 0.90em; /* You can adjust the value as needed */
@@ -32,8 +35,8 @@ I spent Summer 2024 at [NVIDIA](https://www.nvidia.com/en-us/solutions/quantum-c
     <div class="row justify-content-center">
     <ul class="lower-font-size"> 
     <h4>Interests</h4>
-    <li>Quantum Simulation Software</li>
-    <li>Quantum Computing Architecture</li>
+    <li>Fault-tolerant Architectures</li>
+    <li>Quantum Algorithms</li>
     <li>High Performance Computing</li>
     </ul>
     </div> 
