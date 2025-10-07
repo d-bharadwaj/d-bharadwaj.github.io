@@ -4,12 +4,12 @@
     - name: Full Name
       value: Dhanvi Bharadwaj
     - name: Interests
-      value: Quantum circuit simulation, Quantum-HPC hybrid systems,
-             Tensor Networks, Error Mitigation, Compilers
+      value: Fault-Tolerant architectures, Quantum-HPC workflows,
+             Tensor Networks, Compilers for Quantum
     - name: Languages
       value: Python, C++, Cython, Julia, SystemVerilog
     - name: Tools
-      value : Qiskit, Pennylane, cuQuantum, PyTorch, NumPy, CuPy, Pybind11, LLVM 
+      value : Qiskit, cuQuantum, Pennylane, PyTorch, NumPy, CuPy, Pybind11, LLVM 
 
 - title: Education
   type: time_table

@@ -6,5 +6,5 @@ nav_order: 2
 cv_pdf: pdf/Dhanvi_Bharadwaj_Resume.pdf
 toc:
   sidebar: left 
-description: Click the icon to the right to download a PDF version of my resume.
+description: Click the icon to the right to download a PDF version of my resume! 
 ---
