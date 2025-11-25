@@ -34,7 +34,7 @@ I spent Summer 2024 at [NVIDIA](https://www.nvidia.com/en-us/solutions/quantum-c
     <div class="col-5 pr-0">
     <div class="row justify-content-center">
     <ul class="lower-font-size"> 
-    <h4>Interests</h4>
+    <h4>Focus</h4>
     <li>Fault-tolerant Architectures</li>
     <li>Quantum Algorithms</li>
     <li>High Performance Computing</li>

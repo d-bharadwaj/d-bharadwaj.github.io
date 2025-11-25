@@ -1,12 +1,12 @@
-# - venue: IEEE International Midwest Symposium on Circuits and Systems
-#   title: Clifford Initialization for the Quantum Approximate Optimization Algorithm
-#   date: 2025-08-10
-#   # buttons:
-#   #   slides: slides_link
-#   #   video: video_link
+- venue: IEEE MWSCAS Quantum Architectures Workshop @ Lansing
+  title: A Resource-Effecient Framework for Variational Algorithms on NISQ and Fault-Tolerant devices
+  date: 2025-08-10
+  # buttons:
+  #   slides: slides_link
+  #   video: video_link
 
-- venue: Indiana University Indianapolis
-  title: Designing hybrid systems to achieve quantum advantage
+- venue: Building Bridges @ Indiana University Indianapolis
+  title: Designing Hybrid Systems to Achieve Quantum Advantage
   date: 2025-03-21
   # buttons:
   #   slides: slides_link

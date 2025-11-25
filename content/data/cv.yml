@@ -3,7 +3,7 @@
   contents:
     - name: Full Name
       value: Dhanvi Bharadwaj
-    - name: Interests
+    - name: Research Interests
       value: Fault-Tolerant architectures, Quantum-HPC workflows,
              Tensor Networks, Compilers for Quantum
     - name: Languages
