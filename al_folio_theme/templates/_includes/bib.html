@@ -111,7 +111,8 @@
           {% if entry.type == "article" and entry.journal -%}
             {%- set entrytype -%}<em>{{entry.journal}}</em>{%- endset -%}
           {%- elif entry.type in proceedings and entry.booktitle -%}
-            {%- set entrytype -%}<em>In {{entry.booktitle}}</em> {%- endset -%}
+            <!-- {%- set entrytype -%}<em>In {{entry.booktitle}}</em> {%- endset -%} "In"--> 
+            {%- set entrytype -%}<em>{{entry.booktitle}}</em> {%- endset -%}
           {%- elif entry.type in thesis and entry.school -%}
             {%- set entrytype -%}<em>{{entry.school}}</em> {%- endset -%}
           {%- else -%}
