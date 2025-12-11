@@ -2,7 +2,7 @@
 Title: Error Correction vs. Fault Tolerance - What’s the Difference?
 Date: 2025-12-05
 Category: personal 
-thumbnail: "images/bloch.png"
+thumbnail: "images/blog/FTQC_Blog/ftqc_icon.png"
 Summary: >
   A high-level introduction to clarify two fundamental concepts in quantum computing.
 ---
