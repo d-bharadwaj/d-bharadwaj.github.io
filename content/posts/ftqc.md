@@ -5,11 +5,14 @@ Category: personal
 thumbnail: "images/blog/FTQC_Blog/ftqc_icon.png"
 Summary: >
   A high-level introduction to clarify two fundamental concepts in quantum computing.
+
+toc:
+  sidebar: True
 ---
 
 # Introduction
 
-As a teaching assistant this semester for the [Intro to Quantum Computing](https://eecs479.github.io/) course at UMich, I’ve had a great experience helping students learn the foundations of quantum error correction through detailed coding projects and homeworks. The final project in this class focuses on implementing error correction with fault tolerance—two concepts that many students initially assume are the same. My intention with this blog post is twofold:
+As a teaching assistant this semester for the [Intro to Quantum Computing](https://eecs479.github.io/) course at UMich, I’ve enjoyed helping students learn the foundations of quantum error correction through detailed coding projects and homeworks. The final project in this class focuses on implementing error correction with fault tolerance—two concepts that many students initially assume are the same. My intention with this blog post is twofold:
 
 - To clear up this common misconception with a very high-level overview:  
   **Error Correction is not the same as Fault Tolerance.**
@@ -22,7 +25,7 @@ In short, error correction and fault tolerance go hand-in-hand, but they’re no
 
 ---
 
-## What’s Error Correction?
+# What’s Error Correction?
 
 Quantum computers do exist—but they are extremely error-prone. The quantum version of the classical bit—called a qubit—is nowhere near perfect. You can imagine a qubit as an electron that can be in one of two states (spin-up or spin-down).
 
@@ -55,7 +58,7 @@ So we introduce an error-correction module that does two things:
   <br>
 </div>
 
-### What does this error correction module look like?
+## What does this error correction module look like?
 
 Since a single physical qubit is fragile, we group several noisy qubits together and let them “watch each other’s backs.” That team behaves like one logical qubit—a protected representation of a single unit of information spread across many physical qubits.
 
@@ -70,7 +73,7 @@ This logical qubit becomes the basic building block of quantum error correction.
   <br>
 </div>
 
-Error-correction modules can be designed in many ways, with complexity increasing quickly as you try to handle more types or numbers of errors. For this example, we’ll use a simple scheme that corrects only a single bit-flip error and imagine we want to apply a Hadamard gate on an encoded qubit.
+Error-correction modules can be designed in many ways, with complexity increasing quickly as you try to handle more types or numbers of errors. For this example, we’ll use a simple scheme (called as the Steane code) that corrects only a single bit-flip error and imagine we want to apply a Hadamard gate on an encoded qubit.
 
 <div align="center">
   <img src="/images/blog/FTQC_Blog/Slide5.png" style="max-width: 75%;">
@@ -108,7 +111,7 @@ We can also visualize how errors propagate. Imagine the pink module can only cor
 
 ---
 
-## What if the Ancilla Qubit Errors?
+# What if the Ancilla Qubit Errors?
 
 *Alright, I see how we correct an error on a data qubit. But what if the ancilla had an qubit error instead?*
 
@@ -130,7 +133,7 @@ A single fault has now created uncorrectable damage.
 
 ---
 
-## How Do We Fix This? Enter Fault Tolerance
+# How Do We Fix This? Enter Fault Tolerance
 
 Fault tolerance involves protocols designed to ensure that a single physical error cannot spread and create multiple errors that corrupt the logical qubit.
 
@@ -153,7 +156,7 @@ Now, even if one ancilla has an error, it won't propagate uncontrollably, and th
 
 That’s basically it. Hopefully, you have a big-picture idea of the differences between error correction and fault tolerance.
 
-Note: In fact, all three stages—initialization, gates, and measurement—can be and should be performed fault-tolerantly. This ensures the entire computation is protected end-to-end before we even discuss the resource overhead. In this post, we only show fault tolerance applied to error correction.
+Note: In fact, all three stages—initialization, gates, and measurement—can be and should be performed fault-tolerantly. This ensures the entire computation is protected end-to-end before we even discuss the resource overhead. In this post, we only show fault tolerance applied to error correction. While this post focuses on the fundamental idea behind Fault Tolerance, at the circuit-level, the same concept is applied in different parts of the system that I recommend you read more into.
 
 ---
 
@@ -164,3 +167,9 @@ Before we wrap up, notice how quickly the resource cost grows: even this simple,
 The required resources scale fast.
 
 Designing quantum error-correction and fault-tolerant protocols that remain efficient as systems grow is one of the most active and important research challenges in the field today.
+
+<div style="text-align: center;">
+  <a href="https://d-bharadwaj.github.io/posts/2025/error-correction-vs-fault-tolerance-whats-the-difference/">
+    <img alt="Hits" src="https://hits.sh/d-bharadwaj.github.io/posts/2025/error-correction-vs-fault-tolerance-whats-the-difference.svg?color=ff4725"/>
+  </a>
+</div>
