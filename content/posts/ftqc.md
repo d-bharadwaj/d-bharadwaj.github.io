@@ -80,7 +80,7 @@ Error-correction modules can be designed in many ways, with complexity increasin
   <br>
 </div>
 
-We want to encode the state across 7 data qubits—this is the Steane code’s bit-flip correction circuit. (Don't worry about the details for now - we just need to know it's some protocol that uses 7 qubits to correct a single bit-flip)
+We want to encode the state across 7 data qubits—this is the Steane code’s bit-flip correction circuit. (Don't worry about the details for now - we just need to know it's some protocol that uses 7 + 3 qubits to correct a single bit-flip)
 
 <div align="center">
   <img src="/images/blog/FTQC_Blog/Slide6.png" style="max-width: 75%;">
