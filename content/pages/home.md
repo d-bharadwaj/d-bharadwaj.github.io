@@ -36,7 +36,8 @@ I spent Summer 2024 at [NVIDIA](https://www.nvidia.com/en-us/solutions/quantum-c
     <ul class="lower-font-size"> 
     <h4>Focus</h4>
     <li>Fault-tolerant Architectures</li>
-    <li>Quantum Algorithms</li>
+    <li>Quantum Error Correction</li>
+    <li>Quantum Circuit Simulations</li>
     <li>High Performance Computing</li>
     </ul>
     </div> 
