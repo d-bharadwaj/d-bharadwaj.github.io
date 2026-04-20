@@ -1,13 +1,22 @@
 ---
-title: news 
+title: News 
 template: news_archive 
 nav: false 
 summary: An archive of announcements.
 
 entries:
+
+  - date: 2026-04-13 
+    content: |
+      Awarded “Exceptional Preliminary Exam”. Officially a **PhD candidate**!
+
+  - date: 2026-03-20 
+    content: |
+      Recieved the HAIQ Travel Grant to present a poster on SPIQ @ **ASPLOS '26**. See you in Pittsburgh!
+
   - date: 2024-08-26 
     content: |
-      Started my PhD in CSE at University of **Michigan**! ✨😄
+      Started my PhD in CSE at University of **Michigan**! 
 
   - date: 2024-05-20
     content: |

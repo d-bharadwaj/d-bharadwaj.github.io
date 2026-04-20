@@ -13,6 +13,7 @@ profile:
 # latest_posts: true  # includes a list of the newest posts/
 selected_papers: true # includes a list of papers marked as "selected={true}"
 talks: true # includes latest talks
+news: true #includes news
 ---
 
 I'm a 2nd-year PhD student in CSE @ University of Michigan, advised by [Dr. Gokul Ravi](https://gsravi.engin.umich.edu/)!
