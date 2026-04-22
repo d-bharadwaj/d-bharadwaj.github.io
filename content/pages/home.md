@@ -32,19 +32,18 @@ I spent Summer 2024 at [NVIDIA](https://www.nvidia.com/en-us/solutions/quantum-c
 
 <div class="desktop">
 <div class="row">
-    <div class="col-5 pr-0">
-    <div class="row justify-content-center">
+    <div class="col-6">
+    <div class="row">
     <ul class="lower-font-size"> 
     <h4>Focus</h4>
-    <li>Fault-tolerant Architectures</li>
+    <li>Compilation for Fault-Tolerant QC</li>
     <li>Quantum Error Correction</li>
-    <li>Quantum Circuit Simulations</li>
     <li>High Performance Computing</li>
     </ul>
     </div> 
     </div>
-    <div class="col-7"> 
-    <div class="row justify-content-center">
+    <div class="col-6"> 
+    <div class="row">
     <ul class="lower-font-size">
     <h4>Education</h4>
     <li>PhD in Computer Science<br>University of Michigan, 2024-Present</li>
