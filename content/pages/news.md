@@ -12,7 +12,7 @@ entries:
 
   - date: 2026-03-20 
     content: |
-      Recieved the HAIQ Travel Grant to present a poster on SPIQ @ **ASPLOS '26**. See you in Pittsburgh!
+      Honored to receive the HAIQ Travel Grant to present a poster on SPIQ. Our TreeVQA paper has also been accepted to ASPLOS 2026 — see you in Pittsburgh!
 
   - date: 2024-08-26 
     content: |
