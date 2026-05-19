@@ -6,6 +6,10 @@ summary: An archive of announcements.
 
 entries:
 
+  - date: 2026-05-18 
+    content: |
+      Started my PhD internship with the Compilers Team @ Infleqtion in downtown Chicago!
+
   - date: 2026-04-13 
     content: |
       Awarded “Exceptional Preliminary Exam”. Officially a **PhD candidate**!
