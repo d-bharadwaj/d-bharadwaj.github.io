@@ -6,6 +6,10 @@ summary: An archive of announcements.
 
 entries:
 
+  - date: 2026-07-06 
+    content: |
+      **SPIQ** is accepted to IEEE QCE 2026! 
+
   - date: 2026-05-18 
     content: |
       Started my PhD internship with the Compilers Team @ **Infleqtion** in downtown Chicago!
@@ -18,9 +22,9 @@ entries:
     content: |
       Honored to receive the HAIQ Travel Grant to present a poster on SPIQ. Our TreeVQA paper has also been accepted to **ASPLOS '26** — see you in Pittsburgh!
 
-  - date: 2024-08-26 
-    content: |
-      Started my PhD in CSE at University of **Michigan**! 
+  # - date: 2024-08-26 
+  #   content: |
+  #     Started my PhD in CSE at University of **Michigan**! 
 
   - date: 2024-05-20
     content: |
