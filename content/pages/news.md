@@ -12,7 +12,7 @@ entries:
 
   - date: 2026-05-18 
     content: |
-      Started my PhD internship with the Compilers Team @ **Infleqtion** in downtown Chicago!
+      Started my PhD internship with the compilers team @ **Infleqtion** in downtown Chicago!
 
   - date: 2026-04-13 
     content: |
