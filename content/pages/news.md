@@ -8,7 +8,7 @@ entries:
 
   - date: 2026-07-06 
     content: |
-      **SPIQ** is accepted to IEEE QCE 2026! 
+      **SPIQ** is accepted to IEEE QCE 2026. See you in Toronto 🇨🇦 !
 
   - date: 2026-05-18 
     content: |
