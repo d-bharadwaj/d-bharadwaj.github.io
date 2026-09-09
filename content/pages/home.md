@@ -16,7 +16,7 @@ talks: false # includes latest talks
 news: true #includes news
 ---
 
-I'm a 2nd-year PhD candidate in CSE @ University of Michigan,<br>
+I'm a 3rd-year PhD candidate in CSE @ University of Michigan,<br>
 advised by [Dr. Gokul Ravi](https://gsravi.engin.umich.edu/)! My research combines Quantum Computing and High-Performance Computing (HPC) to push towards practical quantum advantage. I'm also a [MICDE](https://micde.umich.edu/) graduate fellow (2024 cohort).
 
 I'm currently interning at [Infleqtion](https://infleqtion.com/) focusing on logical compilation, resource estimation for FTQC, and movement for neutral atom systems. I spent Summer 2024 at [NVIDIA](https://www.nvidia.com/en-us/solutions/quantum-computing/), where I worked on accelerating tensor network simulations for cuQuantum. Previously, I interned at the startup [qBraid](https://www.qbraid.com/), and at [Oak Ridge National Laboratory](https://www.ornl.gov/directorate/ccsd).
