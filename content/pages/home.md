@@ -17,9 +17,9 @@ news: true #includes news
 ---
 
 I'm a 3rd-year PhD candidate in CSE @ University of Michigan,<br>
-advised by [Dr. Gokul Ravi](https://gsravi.engin.umich.edu/)! My research combines Quantum Computing and High-Performance Computing (HPC) to push towards practical quantum advantage. I'm also a [MICDE](https://micde.umich.edu/) graduate fellow (2024 cohort).
+advised by [Dr. Gokul Ravi](https://gsravi.engin.umich.edu/)! My research focuses on hardware-software co-design for QEC. My current intersts include compilation and resource estimation for fault-tolerant architectures. I'm also a [MICDE](https://micde.umich.edu/) graduate fellow.
 
-I'm currently interning at [Infleqtion](https://infleqtion.com/) focusing on logical compilation, resource estimation for FTQC, and movement for neutral atom systems. I spent Summer 2024 at [NVIDIA](https://www.nvidia.com/en-us/solutions/quantum-computing/), where I worked on accelerating tensor network simulations for cuQuantum. Previously, I interned at the startup [qBraid](https://www.qbraid.com/), and at [Oak Ridge National Laboratory](https://www.ornl.gov/directorate/ccsd).
+I interned at [Infleqtion](https://infleqtion.com/) this past summer (2026), focusing on logical compilation, resource estimation for FTQC, and movement for neutral atom systems. Before this, I spent Summer 2024 at [NVIDIA](https://www.nvidia.com/en-us/solutions/quantum-computing/), where I worked on accelerating tensor network simulations for cuQuantum. I also had fantastic experiences interning at the startup [qBraid](https://www.qbraid.com/), and at [Oak Ridge National Laboratory](https://www.ornl.gov/directorate/ccsd).
 
 <!-- add this winter 2026 -->
 <!-- If you’re an undergraduate with an idea you’d like to explore, I’d be excited to hear from you—please don’t hesitate to email me! --> 
