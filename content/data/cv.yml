@@ -4,37 +4,43 @@
     - name: Full Name
       value: Dhanvi Bharadwaj
     - name: Research Interests
-      value: Fault-Tolerant architectures, Quantum-HPC workflows,
-             Tensor Networks, Compilers for Quantum
+      value: Fault-Tolerant architectures, Quantum-HPC workflows, Tensor Networks, Compilers for Quantum
     - name: Languages
       value: Python, C++, Cython, Julia, SystemVerilog
     - name: Tools
-      value : Qiskit, cuQuantum, Pennylane, PyTorch, NumPy, CuPy, Pybind11, LLVM 
+      value: Qiskit, cuQuantum, PennyLane, PyTorch, NumPy, CuPy, Pybind11, LLVM
 
 - title: Education
   type: time_table
   contents:
     - title: PhD, Computer Science
-      institution: University of Michigan - Ann Arbor 
+      institution: University of Michigan - Ann Arbor
       year: 2024-Present
       description:
-        - "Advisor: Dr. Gokul Ravi"  
+        - "Advisor: Dr. Gokul Ravi"
         - "Focus: Quantum Computing Architecture"
         - "MICDE Fellow 2024"
 
-    - title: Bachelor of Science, Physics 
-      institution: University of Wisconsin - Madison 
+    - title: Bachelor of Science, Physics
+      institution: University of Wisconsin - Madison
       year: 2020-2024
       description:
         - "Cumulative GPA: 3.9/4.0"
         - "Hilldale Research Fellow 2023"
 
-- title: Experience 
+- title: Experience
   type: time_table
   contents:
+    - title: PhD Research Intern
+      institution: <a href="https://infleqtion.com/">Infleqtion</a>
+      year: Summer '26
+      description:
+        - Logical compilation for heterogeneous architectures (DARPA HARQ)
+        - Resource estimation for FTQC
+        - Optimizing atom movement for neutral atom systems
+
     - title: Quantum Computing Software Intern
-      institution: <a href = "https://www.nvidia.com/en-us/solutions/quantum-computing/">
-                    NVIDIA Math Libraries Team </a>
+      institution: <a href="https://www.nvidia.com/en-us/solutions/quantum-computing/">NVIDIA Math Libraries Team</a>
       year: Summer '24
       description:
         - Implemented the Simple Update algorithm with CuPy and C++ to optimize matrix product states, enhancing the accuracy of tensor network contractions involving 2-qubit gates and MPOs.
@@ -42,41 +48,37 @@
         - Collaborated with Senior Engineers during team-led CUDA workshops, refining GPU programming techniques and ensuring industry-level coding standards throughout development.
 
     - title: Software Engineer Intern
-      institution: <a href = "https://www.qbraid.com/">
-                    qBraid </a>
-      year: Spring '24'
+      institution: <a href="https://www.qbraid.com/">qBraid</a>
+      year: Spring '24
       description:
         - Conducted detailed profiling and performance analysis on qBraid Lab with Quantum Volume circuits, identifying and resolving kernel bottlenecks.
         - Led comprehensive benchmarking studies on SOTA NVIDIA GPU hardware systems, exploring the effect of depolarizing noise on density matrix-based simulation techniques.
 
     - title: Quantum Machine Learning Intern
-      institution: <a href = "https://www.ornl.gov/directorate/ccsd">
-                    Oak Ridge National Laboratory </a>
+      institution: <a href="https://www.ornl.gov/directorate/ccsd">Oak Ridge National Laboratory</a>
       year: Summer '23
       description:
-        - Developed and implemented Quantum Machine Learning models using Pennylane and Qiskit frameworks, focusing on 2-6 qubits to assess predictive capabilities on highly multivariate and non-linear datasets.
+        - Developed and implemented Quantum Machine Learning models using PennyLane and Qiskit frameworks, focusing on 2-6 qubits to assess predictive capabilities on highly multivariate and non-linear datasets.
         - Optimized fidelity and cross-entropy loss methods for our models, to reduce loss function values by an average of 20%.
         - Utilized state-of-the-art techniques such as data re-uploading to solve limitations posed by the no-cloning theorem and enhance the performance of our quantum models by 30%.
         - Implemented and refined quantum circuit architectures such as SU(4) and IsingZZ coupling for multiclass classification tasks on imbalanced datasets.
 
-    - title: Undergraduate Research Assistant  
-      institution: <a href = "https://thevamaran.engr.wisc.edu/">
-                    Thevamaran Lab , UW-Madison </a>
+    - title: Undergraduate Research Assistant
+      institution: <a href="https://thevamaran.engr.wisc.edu/">Thevamaran Lab, UW-Madison</a>
       year: 2020-2024
       description:
-      - Utilized Python to implement computational techniques to correct strain-overshoot in viscoelastic relaxation experiments, to help improve the accuracy of dynamic moduli calculations.
-      - Collaborated with researchers to execute data analysis using SciPy that identified an opportunity to reduce noise from resonance effect.
-      - Investigated the viscoelastic properties of vertically aligned carbon nanotubes (VACNT) across broad frequency and amplitude ranges using dynamic mechanical analyzer.
+        - Utilized Python to implement computational techniques to correct strain-overshoot in viscoelastic relaxation experiments, to help improve the accuracy of dynamic moduli calculations.
+        - Collaborated with researchers to execute data analysis using SciPy that identified an opportunity to reduce noise from resonance effect.
+        - Investigated the viscoelastic properties of vertically aligned carbon nanotubes (VACNT) across broad frequency and amplitude ranges using dynamic mechanical analyzer.
 
-    - title: Quantum Software Lead 
-      institution: <a href = "https://wqi.wisc.edu/wqcc/">
-                    Wisconsin Quantum Computing Club
+    - title: Quantum Software Lead
+      institution: <a href="https://wqi.wisc.edu/wqcc/">Wisconsin Quantum Computing Club</a>
       year: 2023-2024
       description:
-      - Led a team of 5 students to organize the inaugural IBM Qiskit Fall Fest at UW-Madison consisting of Workshops, Tutorials, and a Hackathon.
-      - Developed interactive workshops for 80+ students in Quantum Simulations and Error-Correction.
-      - Taught introductory topics related to quantum computing and linear algebra.
-      - Organized career talks for students with leading experts in quantum computing from industry and academia.
+        - Led a team of 5 students to organize the inaugural IBM Qiskit Fall Fest at UW-Madison consisting of Workshops, Tutorials, and a Hackathon.
+        - Developed interactive workshops for 80+ students in Quantum Simulations and Error-Correction.
+        - Taught introductory topics related to quantum computing and linear algebra.
+        - Organized career talks for students with leading experts in quantum computing from industry and academia.
 
 - title: Open Source Contributions
   type: time_table
@@ -84,25 +86,26 @@
     - title: <a href="https://github.com/qiskit-community/qiskit-research">qiskit-research</a>
       year: 2024
       description:
-      - Expanded pauli twirling functionality in IBM Qiskit's research library by adding gate-set generation support and modularizing code for scalability.
-      - Implemented comprehensive tests to ensure robustness and validate new two-qubit gate features.
+        - Expanded pauli twirling functionality in IBM Qiskit's research library by adding gate-set generation support and modularizing code for scalability.
+        - Implemented comprehensive tests to ensure robustness and validate new two-qubit gate features.
 
     - title: <a href="https://github.com/mit-han-lab/torchquantum">TorchQuantum</a>
       year: 2023
       description:
-      - Implemented 15 unsupported quantum gates to expand the functionality of the PyTorch-based framework for fast GPU-supported circuit simulations.
-      - Integrated various quantum circuits and template layers to improve library's versatility at unitaryHack 2023.
+        - Implemented 15 unsupported quantum gates to expand the functionality of the PyTorch-based framework for fast GPU-supported circuit simulations.
+        - Integrated various quantum circuits and template layers to improve library's versatility at unitaryHack 2023.
 
 - title: Awards and Fellowships
   type: time_table
   contents:
-    - year: 2024 
-      elements: 
+    - year: 2024
+      elements:
         - MICDE Fellowship for research in HPC+X fields
-    - year: 2023 
-      elements: 
+    - year: 2023
+      elements:
         - Hilldale Undergraduate Research Fellowship
-# - title: Hobbies & Interests 
+
+# - title: Hobbies & Interests
 #   type: list
 #   contents:
 #     - Photography & Cinematography (Lightroom is my all-time favorite piece of software)
